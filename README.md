@@ -1,4 +1,4 @@
-# Paragraph to Handwriting Image Convetor
+# Paragraph to Handwriting Image Convetor EXE
 
 Only run in the CMD. 
 ## Description :
